@@ -25,7 +25,7 @@
 <h3> Conect Me </h3>
 
 <p align="center">
-  <a href="https://instagram.com/parvaneh.ghovsi/"><img src="https://img.shields.io/badge/Instagram-@Parvaneh.ghovsi-red?style=flat&logo=instagram" /></a>
-  <a href="https://t.me/aminkhoy78/"><img src="https://img.shields.io/badge/Gmail-@pghovsi@gmail.com-blue?style=flat&logo=gmail" /></a>
+  <a href="https://instagram.com/parvaneh.ghovsi/"><img src="https://img.shields.io/badge/Instagram-Parvaneh.ghovsi-red?style=flat&logo=instagram" /></a>
+  <a href="https://gmail.com/pghovsi@gmail.com/"><img src="https://img.shields.io/badge/Gmail-pghovsi@gmail.com-blue?style=flat&logo=gmail" /></a>
 </p>
 
