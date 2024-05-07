@@ -20,10 +20,6 @@
 
 ---
 
-<h3> Conect Me </h3>
 
-<p align="left">
-  <a href="https://instagram.com/parvaneh.ghovsi/"><img src="https://img.shields.io/badge/Instagram-Parvaneh.ghovsi-red?style=flat&logo=instagram" /></a>
-  <a href="https://github.com/pghovsi/"><img src="https://img.shields.io/badge/Gmail-pghovsi@gmail.com-blue?style=flat&logo=gmail" /></a>
-</p>
+
 
